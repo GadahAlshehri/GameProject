@@ -1,0 +1,6 @@
+Spine.png
+size:806,1072
+filter:Linear,Linear
+pma:true
+Background
+bounds:2,2,802,1068

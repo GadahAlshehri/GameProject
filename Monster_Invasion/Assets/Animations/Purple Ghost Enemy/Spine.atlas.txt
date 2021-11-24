@@ -1,0 +1,14 @@
+Spine.png
+size:1165,658
+filter:Linear,Linear
+pma:true
+Back-Hand
+bounds:802,2,312,296
+offsets:20,1,333,297
+Body
+bounds:2,42,798,614
+offsets:2,2,800,616
+Front-Hand
+bounds:802,300,356,361
+offsets:3,1,361,362
+rotate:90

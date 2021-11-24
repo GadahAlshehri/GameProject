@@ -1,0 +1,29 @@
+Spine.png
+size:1454,469
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,10,520,457
+Head
+bounds:524,20,436,447
+offsets:1,0,439,449
+Leaf
+bounds:1229,124,219,177
+Left Hand
+bounds:1095,3,132,284
+offsets:1,1,134,286
+Left foot
+bounds:1331,54,98,68
+offsets:2,0,101,69
+Right Hand
+bounds:962,2,131,285
+offsets:2,1,134,287
+Right foot
+bounds:1229,51,100,71
+offsets:1,0,106,72
+eye-closed
+bounds:962,289,244,178
+offsets:1,7,246,193
+eye-fear
+bounds:1208,303,244,164
+offsets:1,1,246,165

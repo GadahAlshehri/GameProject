@@ -1,0 +1,30 @@
+Spine.png
+size:1968,638
+filter:Linear,Linear
+pma:true
+back arm
+bounds:1262,195,333,441
+back calf
+bounds:1597,3,217,264
+offsets:1,1,218,266
+rotate:90
+back feet
+bounds:1262,61,197,132
+offsets:82,0,279,132
+body and head
+bounds:2,2,634,945
+rotate:90
+eye-hit
+bounds:1597,222,323,152
+front calf
+bounds:1597,376,309,260
+offsets:3,0,312,261
+front feet
+bounds:1461,3,190,133
+offsets:89,0,279,133
+rotate:90
+mouth-oooh
+bounds:1863,71,103,149
+offsets:79,0,259,149
+weapon arm
+bounds:949,102,311,534
